@@ -6,3 +6,11 @@ footer li::marker{
 footer{
     border-top: 15px solid #2495fd;
 }
+
+.section1 span{
+    border-radius: 10rem;
+    padding: 1rem;
+}
+.section2 p{
+    font-size: 0.8rem;
+}
