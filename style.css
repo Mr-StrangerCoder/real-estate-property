@@ -1,0 +1,8 @@
+footer li::marker{
+    color:#2495fd;
+    
+}
+
+footer{
+    border-top: 15px solid #2495fd;
+}
