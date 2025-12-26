@@ -14,3 +14,13 @@ footer{
 .section2 p{
     font-size: 0.8rem;
 }
+.section3{
+    background-image: url(./assest/section3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.section3 form{
+    border-radius: 1rem;
+}
